@@ -2,7 +2,7 @@ import GPIO.rfi as GPIO
 pin = 40
 print("Hello world")
 
-print("Neftali Flores")
+print("Neftali Flores.")
 ======
 
 print("Rafael Gonzalez Martinez")
